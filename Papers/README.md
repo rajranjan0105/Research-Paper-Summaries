@@ -1,1 +1,1 @@
-Research papers used for literature review.
+This folder contains the research papers provided by my research supervisor, Dr. Shaily Verma, as part of the literature review for the research project. The collection includes foundational papers, survey articles, and recent research on clustering algorithms, semi-supervised clustering, constrained clustering, pairwise constraints, and optimization-based approaches. These papers form the primary knowledge base for understanding existing methodologies and identifying research directions relevant to the project.
